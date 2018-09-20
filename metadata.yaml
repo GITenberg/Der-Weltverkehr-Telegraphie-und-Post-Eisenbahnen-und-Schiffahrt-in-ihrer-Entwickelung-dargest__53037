@@ -1,0 +1,27 @@
+_repo: Der-Weltverkehr-Telegraphie-und-Post-Eisenbahnen-und-Schiffahrt-in-ihrer-Entwickelung-dargest__53037
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Geistbeck, Michael
+    birthdate: 1846
+    deathdate: 1918
+    gutenberg_agent_id: '47186'
+    url: http://www.gutenberg.org/2009/agents/47186
+description: ''
+gutenberg_issued: '2016-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53037'
+  lccn: '05017443'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Communication and traffic'
+- !lcsh 'Transportation -- History'
+- !lcc 'HE'
+- GITenberg
+title: "Der Weltverkehr\r\nTelegraphie und Post, Eisenbahnen und Schiffahrt, in ihrer\
+  \ Entwickelung dargestellt"
+url: http://www.gutenberg.org/ebooks/53037
